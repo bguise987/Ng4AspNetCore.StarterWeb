@@ -1,6 +1,6 @@
 # Ng4AspNetCore.StarterWeb #
 
-*NOTE: This repo is very much a work in progress - pull reqeusts are welcomed and appreciated!*
+*NOTE: This repo is very much a work in progress - pull requests are welcomed and appreciated!*
 
 *DISCLAIMER: I work for Microsoft, but am no way affiliated with the .NET Core or Azure AD B2C teams. This is just a starter project I've created to help accelerate getting my side projects up-and-running.*
 
